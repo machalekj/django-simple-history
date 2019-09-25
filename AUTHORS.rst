@@ -43,6 +43,7 @@ Authors
 - James Pulec
 - Jesse Shapiro
 - Jim Gomez
+- Jiri Machalek (`machalekj <https://github.com/machalekj>`_)
 - Joao Junior (`joaojunior <https://github.com/joaojunior>`_)
 - Joao Pedro Francese
 - `jofusa <https://github.com/jofusa>`_
